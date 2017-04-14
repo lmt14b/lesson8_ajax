@@ -4,19 +4,18 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+April 13, 2017
 
 ### Student Name:  
-(First and Last Name)
+Landon Thaler
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+Adding code to the Seminole Movie Connection Application to add more categories to look up when searching for a movie.
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://lmt14b.github.io/lesson8_ajax/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. Updating a webpage by processing data and add it to the DOM
+2. Learning What an HTTP request is and how you interpret an HTTP response
+3. Learning that AJAX allows application developers to interact with server-side data (database, APIs, etc.) without pausing script execution or forcing the page to reload.
